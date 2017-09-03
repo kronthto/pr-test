@@ -2,4 +2,4 @@
 let foo = 'bar';
 foo = 'baz';
 
-console.log(foo);
+console.log('foo: ', foo);
